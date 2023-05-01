@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>PHP Page</h1>
-
-<?php
-
 $pondIcon = <<<ICON
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="150" viewBox="0 0 220 150" fill="none" preserveAspectRatio="xMinYMid"><path d="M185 66C182.791 66 181 64.2091 181 62C181 59.7909 182.791 58 185 58C187.209 58 189 59.7909 189 62C189 64.2091 187.209 66 185 66Z" fill="currentColor"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M220 73C202 39 171 20 137 20C114 5 81 0 81 0C89 8 96 17 101 26C85 32 69 43 56 59C40 33 29 29 0 29C7 49 6 64 29 73C6 82 7 97 0 117C29 117 40 113 56 87C70 104 86 115 103 121C98 131 90 141 81 150C81 150 120 145 144 126C174 123 203 105 220 73ZM167 112C153 105 144 91 144 75C144 59 153 45 167 38C157 47 151 60 151 75C151 90 157 103 167 112ZM182 52C176 52 172 56 172 61C172 66 176 71 182 71C187 71 191 66 191 61C191 56 187 52 182 52Z" fill="currentColor"></path></svg>
 ICON;
 
-echo ($ruby);
 
 ?>
 
-</body>
-</html>
+<script type="text/javascript">
+   $(document).ready(function() {
