@@ -6,8 +6,8 @@
 
 <?php
 
-$ruby = <<<ICON
-<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M20,100l74-5l6-75zM61,35l37-2l-29-24z' fill='#b11' fill-rule='evenodd'/><path d='M21,100l74-5l-47-4zM98,33c4-12,5-29-14-33l-15,9l29,24z' fill='#811' fill-rule='evenodd'/><path d='M7,67l14,33l11-38z' fill='#d44' fill-rule='evenodd'/><path d='M29,61l42,13l-10-42zM56,0h28l-16,10zM1,51l-1,29l7-13z' fill='#c22' fill-rule='evenodd'/><path d='M32,61l39,13c-14,13-30,24-50,26z' fill='#a00' fill-rule='evenodd'/><path d='M61,35l10,39l17-23zM32,61l16,30c9-5,16-11,23-17l-39-13z' fill='#900' fill-rule='evenodd'/><path d='M61,35l27,17l10-20l-37,3z' fill='#800' fill-rule='evenodd'/><path d='M71,74l23,21l-6-44zM0,80c1,19,15,20,21,20l-14-33l-7,13zM7,67l-2,26c4,6,9,7,15,6c-4-11-13-32-13-32zM69,9l30,4c--7-6-11-15-13l-15,9z' fill='#911' fill-rule='evenodd'/><path d='M1,51l6,16l25-5l29-27l8-26l-13-9l-22,8c-6,7-20,19-20,19c-1,1-9,16-13,24z' fill='#ebb' fill-rule='evenodd'/><path d='M21,21c15-14,34-23,42-16c7,8-1,26-16,40c-14,15-33,24-41,17c-7-7,1-26,15-41z' fill='#b11' fill-rule='evenodd'/></svg>
+$pondIcon = <<<ICON
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="150" viewBox="0 0 220 150" fill="none" preserveAspectRatio="xMinYMid"><path d="M185 66C182.791 66 181 64.2091 181 62C181 59.7909 182.791 58 185 58C187.209 58 189 59.7909 189 62C189 64.2091 187.209 66 185 66Z" fill="currentColor"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M220 73C202 39 171 20 137 20C114 5 81 0 81 0C89 8 96 17 101 26C85 32 69 43 56 59C40 33 29 29 0 29C7 49 6 64 29 73C6 82 7 97 0 117C29 117 40 113 56 87C70 104 86 115 103 121C98 131 90 141 81 150C81 150 120 145 144 126C174 123 203 105 220 73ZM167 112C153 105 144 91 144 75C144 59 153 45 167 38C157 47 151 60 151 75C151 90 157 103 167 112ZM182 52C176 52 172 56 172 61C172 66 176 71 182 71C187 71 191 66 191 61C191 56 187 52 182 52Z" fill="currentColor"></path></svg>
 ICON;
 
 echo ($ruby);
